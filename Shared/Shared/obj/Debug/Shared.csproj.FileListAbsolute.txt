@@ -1,0 +1,8 @@
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\bin\Debug\Shared.dll
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\bin\Debug\Shared.pdb
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\bin\Debug\JsonSerialization.dll
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\obj\Debug\Shared.csprojAssemblyReference.cache
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\obj\Debug\Shared.csproj.CopyComplete
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\obj\Debug\Shared.dll
+C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\Shared\obj\Debug\Shared.pdb
