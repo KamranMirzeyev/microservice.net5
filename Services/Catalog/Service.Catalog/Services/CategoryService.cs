@@ -21,8 +21,7 @@ namespace Service.Catalog.Services
             _categoryCollection = database.GetCollection<Category>(databaseSetting.CategoryCollectionName);
             _mapper = mapper;
         }
-        
-        
+
         public async Task<Responce<List<CategoryDto>>> GetAllAsync()
         {
             var catogories = await _categoryCollection.Find<Category>(category => true).ToListAsync();
