@@ -29,8 +29,9 @@ namespace Service.Catalog.Services
             return Responce<List<CategoryDto>>.Success(data, 200);
         }
 
-        public async Task<Responce<CategoryDto>> CreateAsync(Category category)
+        public async Task<Responce<CategoryDto>> CreateAsync(CategoryDto categoryDto)
         {
+            var category = _mapper.Map<Category>(categoryDto);
             await _categoryCollection.InsertOneAsync(category);
             return Responce<CategoryDto>.Success(_mapper.Map<CategoryDto>(category),201);
         }

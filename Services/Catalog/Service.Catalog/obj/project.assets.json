@@ -320,12 +320,16 @@
       },
       "Shared/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/Shared.dll": {}
         },
         "runtime": {
           "bin/placeholder/Shared.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -905,8 +909,8 @@
     },
     "Shared/1.0.0": {
       "type": "project",
-      "path": "../../../Shared/Shared/Shared.csproj",
-      "msbuildProject": "../../../Shared/Shared/Shared.csproj"
+      "path": "../../../Share/Shared.csproj",
+      "msbuildProject": "../../../Share/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -949,8 +953,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\Shared\\Shared.csproj"
+            "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\Shared.csproj": {
+              "projectPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\Shared.csproj"
             }
           }
         }

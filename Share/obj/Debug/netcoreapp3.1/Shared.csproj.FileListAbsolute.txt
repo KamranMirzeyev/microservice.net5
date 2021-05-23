@@ -1,0 +1,9 @@
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\GT\RiderProjects\Microservice .Net 5\Share\obj\Debug\netcoreapp3.1\Shared.csprojAssemblyReference.cache
