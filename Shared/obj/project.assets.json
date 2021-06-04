@@ -9,19 +9,19 @@
   },
   "packageFolders": {
     "C:\\Users\\GT\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\Shared.csproj",
+      "projectUniqueName": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\Shared.csproj",
+      "projectPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\GT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\obj\\",
+      "outputPath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\GT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

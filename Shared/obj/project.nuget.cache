@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dFLumKjmHac3HyFgkTs/QK7SdcRyJRyaL7nnrztdbuIfQhZdZ0T4sVW5mweP7W2I/prfdqnktJ9Na5w78WEyuw==",
+  "dgSpecHash": "eoLbeW8riGRFrcEVljeBoZvaBKBv+j9cW5BuKREJsPBCBUpNMABkn4bQm2ZO6MTSgn1Q72itdQUaud//ujSBBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Share\\Shared.csproj",
+  "projectFilePath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
