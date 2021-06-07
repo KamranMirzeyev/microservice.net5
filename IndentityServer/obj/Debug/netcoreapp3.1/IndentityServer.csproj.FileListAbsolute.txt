@@ -118,3 +118,4 @@ C:\Users\GT\RiderProjects\Microservice .Net 5\IndentityServer\bin\Debug\netcorea
 C:\Users\GT\RiderProjects\Microservice .Net 5\IndentityServer\bin\Debug\netcoreapp3.1\Shared.dll
 C:\Users\GT\RiderProjects\Microservice .Net 5\IndentityServer\bin\Debug\netcoreapp3.1\Shared.pdb
 C:\Users\GT\RiderProjects\Microservice .Net 5\IndentityServer\obj\Debug\netcoreapp3.1\IndentityServer.csproj.AssemblyReference.cache
+C:\Users\GT\RiderProjects\Microservice .Net 5\IndentityServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

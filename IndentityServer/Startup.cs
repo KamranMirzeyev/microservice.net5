@@ -5,6 +5,7 @@
 using IdentityServer4;
 using IndentityServer.Data;
 using IndentityServer.Models;
+using IndentityServer.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -59,8 +60,8 @@ namespace IndentityServer
             // not recommended for production - you need to store your key material somewhere secure
             builder.AddDeveloperSigningCredential();
 
-           
 
+            builder.AddResourceOwnerValidator<IdentityResourceOwnerPasswordValidator>();
 
             services.AddAuthentication()
                 .AddGoogle(options =>

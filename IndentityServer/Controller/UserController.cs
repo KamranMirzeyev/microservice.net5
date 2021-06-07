@@ -6,6 +6,7 @@ using IndentityServer.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.JsonWebTokens;
 using Shared.DTO;
 
 namespace IndentityServer.Controller
@@ -41,5 +42,21 @@ namespace IndentityServer.Controller
             return Ok(Responce<NoContent>.Success(200));
 
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GeUser()
+        {
+            var useridClaim = User.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Sub);
+            if (useridClaim == null) return BadRequest();
+
+            var user = await _userManager.FindByIdAsync(useridClaim.Value);
+
+            if (user == null) return BadRequest();
+            return Ok(new {Id = user.Id, Email = user.Email, UserName = user.UserName, City = user.City});
+
+
+
+        }
+
     }
 }
