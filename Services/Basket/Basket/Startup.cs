@@ -13,6 +13,11 @@ using System.Threading.Tasks;
 using Basket.Service;
 using Basket.Setting;
 using Microsoft.Extensions.Options;
+using Shared.Service;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace Basket
 {
@@ -29,6 +34,12 @@ namespace Basket
         public void ConfigureServices(IServiceCollection services)
         {
 
+            var requiredAuthirzePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+            JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Remove("sub"); // tokendeki sub-i cliams cevirmemesi ucun 
+
+            services.AddHttpContextAccessor();
+            services.AddScoped<ISharedIdentityService, SharedIdentityService>();
+            services.AddScoped<IBasketService, BasketService>();
             services.Configure<RedisSetting>(Configuration.GetSection("RedisSetting"));
 
 
@@ -41,8 +52,19 @@ namespace Basket
 
             });
 
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(
+                options =>
+                {
+                    options.Authority = Configuration["IdentityServer"];
+                    options.Audience = "resource_basket";
+                    options.RequireHttpsMetadata = false;
+                }
+            );
 
-            services.AddControllers();
+            services.AddControllers(opt=>
+            {
+                opt.Filters.Add(new AuthorizeFilter(requiredAuthirzePolicy));
+            });
 
 
 
@@ -63,7 +85,7 @@ namespace Basket
             }
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

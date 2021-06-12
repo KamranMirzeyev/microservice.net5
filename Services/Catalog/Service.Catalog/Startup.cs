@@ -61,8 +61,6 @@ namespace Service.Catalog
                     options.Audience = "resource_catalog";
                     options.RequireHttpsMetadata = false;
                 }
-
-
             );
 
 
