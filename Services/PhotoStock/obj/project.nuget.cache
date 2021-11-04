@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtoA2u7YDE/DhH+NfuTCVgNrT/rxQL9BWzspOPg4A2jaejTa8wsphkqo91xI3BPGx3ZCeYvWkUHmotaSgiJdjg==",
+  "dgSpecHash": "mMWoDGKGliwCn4rq8yXVUZUTGgjIm42TYFZvedk0mnOz+Rvd/vOeSpkKFAmcinvgd2wBn6XftlcX0dMKQJq7rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Services\\PhotoStock\\PhotoStock.csproj",
+  "projectFilePath": "C:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Services\\PhotoStock\\PhotoStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GT\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

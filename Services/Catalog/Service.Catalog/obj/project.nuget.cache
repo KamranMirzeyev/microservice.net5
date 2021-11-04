@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y1jC1zxkMAXzKH4jrEYkLO1D5r3tr0teu1FCEcuvB7S4QaDU/xZLCZfd0Iq8WOJJ6L+OUY9IfJ8cgrBvwCiuBQ==",
+  "dgSpecHash": "QZdp7cwSaQcwheraVHi+UZe5mm/fVgJbZIggtUDxsJDkIRtr28m3VDwxagCy0Wm46PCO3UIVaxvGuf91jAotkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\Services\\Catalog\\Service.Catalog\\Service.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Services\\Catalog\\Service.Catalog\\Service.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GT\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

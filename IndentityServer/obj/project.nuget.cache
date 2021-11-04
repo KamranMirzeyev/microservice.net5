@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mC3RSDa3JPf0yqAjm9cdfO8gPxUyi/5Ow95BA8amC1kAEHftpwAzhtFz0bzkW81AKIOh4nqXqShf9+UKu/rQcQ==",
+  "dgSpecHash": "vBBWO+tsVN1qW2yfkTiKDQ5f0RuYwk36Tyq1U6WSHmFykcNhBU+tZnT5IScd+F6P6EE7a7C/WrdLxDwsVsd5Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GT\\RiderProjects\\Microservice .Net 5\\IndentityServer\\IndentityServer.csproj",
+  "projectFilePath": "C:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\IndentityServer\\IndentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GT\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",
