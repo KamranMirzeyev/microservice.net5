@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsygIGRgytxn1SBod2t5av+A4soTrE/Ec5yx3qMyNMVXuFXhQlFllrL9mKZ4J2KMedQI0wWIkIE89fCi25BOiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Services\\Order\\Service.Order.Domain\\Service.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GT\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\GT\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\GT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -19,10 +19,10 @@ C:\Users\GT\RiderProjects\Microservice .Net 5\Shared\obj\Debug\netcoreapp3.1\Sha
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\bin\Debug\netcoreapp3.1\Shared.dll
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
-C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.dll
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache

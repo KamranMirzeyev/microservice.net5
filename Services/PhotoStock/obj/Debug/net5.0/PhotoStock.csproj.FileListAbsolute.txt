@@ -68,7 +68,6 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Ph
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\PhotoStock.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\PhotoStock.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\staticwebassets\PhotoStock.StaticWebAssets.Manifest.cache
-C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\staticwebassets\PhotoStock.StaticWebAssets.xml
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\scopedcss\bundle\PhotoStock.styles.css
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\PhotoStock.RazorTargetAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\PhotoStock\obj\Debug\net5.0\PhotoStock.csproj.CopyComplete

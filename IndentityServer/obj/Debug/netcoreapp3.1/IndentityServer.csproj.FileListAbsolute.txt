@@ -211,7 +211,6 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentitySe
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\IndentityServer.RazorAssemblyInfo.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IndentityServer.StaticWebAssets.Manifest.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\staticwebassets\IndentityServer.StaticWebAssets.xml
-C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\IndentityServer.styles.css
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\IndentityServer.TagHelpers.input.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\IndentityServer.TagHelpers.output.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\IndentityServer\obj\Debug\netcoreapp3.1\IndentityServer.RazorCoreGenerate.cache

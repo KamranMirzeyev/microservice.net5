@@ -96,7 +96,6 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Ca
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\Service.Catalog.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\Service.Catalog.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\staticwebassets\Service.Catalog.StaticWebAssets.Manifest.cache
-C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\staticwebassets\Service.Catalog.StaticWebAssets.xml
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\scopedcss\bundle\Service.Catalog.styles.css
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\Service.Catalog.RazorTargetAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Catalog\Service.Catalog\obj\Debug\net5.0\Service.Catalog.csproj.CopyComplete

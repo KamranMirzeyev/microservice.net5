@@ -82,7 +82,6 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Ba
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\Basket.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\Basket.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\staticwebassets\Basket.StaticWebAssets.Manifest.cache
-C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\staticwebassets\Basket.StaticWebAssets.xml
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\scopedcss\bundle\Basket.styles.css
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\Basket.RazorTargetAssemblyInfo.cache
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Basket\Basket\obj\Debug\net5.0\Basket.csproj.CopyComplete
