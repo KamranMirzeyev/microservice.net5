@@ -19,7 +19,8 @@ namespace IndentityServer
             new ApiResource("resource_basket") {Scopes = {"basket_permission"}},
              new ApiResource("resource_discount") {Scopes = {"discount_permission"}},
               new ApiResource("resource_order") {Scopes = {"order_permission"}},
-              new ApiResource("resource_payment") {Scopes = {"order_permission"}},
+              new ApiResource("resource_payment") {Scopes = {"payment_permission"}},
+              new ApiResource("resource_gateway") {Scopes = {"gateway_permission"}},
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
         public static IEnumerable<IdentityResource> IdentityResources =>
@@ -40,6 +41,7 @@ namespace IndentityServer
                  new ApiScope("discount_permission","Discount Api full permisssion"),
                  new ApiScope("order_permission","Order Api full permisssion"),
                   new ApiScope("payment_permission","Payment Api full permisssion"),
+                  new ApiScope("gateway_permission","Gateway full permisssion"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -53,7 +55,7 @@ namespace IndentityServer
                     ClientId = "WebMVCClient",
                     ClientSecrets = {new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    AllowedScopes = { "catalog_permission", "photo_stock_permission",IdentityServerConstants.LocalApi.ScopeName }
+                    AllowedScopes = { "catalog_permission", "photo_stock_permission", "gateway_permission", IdentityServerConstants.LocalApi.ScopeName }
                 },
                 new Client
                 {
@@ -62,7 +64,8 @@ namespace IndentityServer
                     AllowOfflineAccess = true,
                     ClientSecrets = {new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
-                    AllowedScopes = { "basket_permission", "discount_permission", "order_permission", "payment_permission", IdentityServerConstants.StandardScopes.Email,IdentityServerConstants.StandardScopes.OpenId,IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName,"roles" },
+                    AllowedScopes = { "basket_permission", "discount_permission", "order_permission", "payment_permission", "gateway_permission",
+                        IdentityServerConstants.StandardScopes.Email,IdentityServerConstants.StandardScopes.OpenId,IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess, IdentityServerConstants.LocalApi.ScopeName,"roles" },
                     AccessTokenLifetime = 1*60*60,
                     RefreshTokenExpiration = TokenExpiration.Absolute,
                     AbsoluteRefreshTokenLifetime = (int)(DateTime.Now.AddDays(60)-DateTime.Now).TotalSeconds,
