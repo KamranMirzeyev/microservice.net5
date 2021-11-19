@@ -13,7 +13,7 @@ namespace Shared.DTO
         [JsonIgnore]
         public bool IsSuccess { get; private set; }
 
-        public List<string> Erorrs { get; set; }
+        public List<string> Errors { get; set; }
 
         //static factory method
         public static Responce<T> Success(T data, int statusCode)
@@ -28,12 +28,12 @@ namespace Shared.DTO
 
         public static Responce<T> Fail(List<string> errors, int statusCode)
         {
-            return new Responce<T> {Erorrs = errors, StatusCode = statusCode, IsSuccess = false};
+            return new Responce<T> {Errors = errors, StatusCode = statusCode, IsSuccess = false};
         }
 
         public static Responce<T> Fail(string error, int statusCode)
         {
-            return new Responce<T> {Erorrs = new List<string>() {error}, StatusCode = statusCode, IsSuccess = false};
+            return new Responce<T> {Errors = new List<string>() {error}, StatusCode = statusCode, IsSuccess = false};
         }
     }
 }

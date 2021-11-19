@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09c0d885-7c8f-440c-884a-3a21b8289a1b": {
+      "ProjectGuid": "09c0d885-7c8f-440c-884a-3a21b8289a1b",
+      "DisplayName": "Service.Order.API",
+      "ColorIndex": 0
+    },
+    "985347ce-bc58-49b0-875d-8304483d1082": {
+      "ProjectGuid": "985347ce-bc58-49b0-875d-8304483d1082",
+      "DisplayName": "Service.Order.Application",
+      "ColorIndex": 1
+    },
+    "1ee630ff-7f87-428d-93b9-d85bf3bd5938": {
+      "ProjectGuid": "1ee630ff-7f87-428d-93b9-d85bf3bd5938",
+      "DisplayName": "Service.Order.Domain",
+      "ColorIndex": 2
+    },
+    "43a3687c-cdac-4c40-b9f5-179eab791ff9": {
+      "ProjectGuid": "43a3687c-cdac-4c40-b9f5-179eab791ff9",
+      "DisplayName": "Service.Order.Core",
+      "ColorIndex": 3
+    },
+    "cb860ae4-c666-4ddf-af26-e9da0c9a2a93": {
+      "ProjectGuid": "cb860ae4-c666-4ddf-af26-e9da0c9a2a93",
+      "DisplayName": "Service.Order.Infrastructure",
+      "ColorIndex": 4
+    },
+    "6708b284-4505-48d2-bee9-62b107121ce5": {
+      "ProjectGuid": "6708b284-4505-48d2-bee9-62b107121ce5",
+      "DisplayName": "IndentityServer",
+      "ColorIndex": 5
+    },
+    "0f3c14dc-5387-436b-afdb-3bc42fa1e9a9": {
+      "ProjectGuid": "0f3c14dc-5387-436b-afdb-3bc42fa1e9a9",
+      "DisplayName": "Basket",
+      "ColorIndex": 6
+    },
+    "7c974115-5553-49ca-af32-745879d488b6": {
+      "ProjectGuid": "7c974115-5553-49ca-af32-745879d488b6",
+      "DisplayName": "Service.FakePayment",
+      "ColorIndex": 7
+    },
+    "ea65c884-faf6-47c6-aad7-8ba3c2de7b2e": {
+      "ProjectGuid": "ea65c884-faf6-47c6-aad7-8ba3c2de7b2e",
+      "DisplayName": "Gateway",
+      "ColorIndex": 8
+    },
+    "48d5117f-8029-4c6b-8b9b-6e82504b197f": {
+      "ProjectGuid": "48d5117f-8029-4c6b-8b9b-6e82504b197f",
+      "DisplayName": "Service.Catalog",
+      "ColorIndex": 9
+    },
+    "f1a4c36c-6e90-4f96-8e17-2d4de69a29de": {
+      "ProjectGuid": "f1a4c36c-6e90-4f96-8e17-2d4de69a29de",
+      "DisplayName": "ASP.NET-Web",
+      "ColorIndex": 10
+    },
+    "695c7fe4-ba09-4cf3-878c-ca35c1f1acd3": {
+      "ProjectGuid": "695c7fe4-ba09-4cf3-878c-ca35c1f1acd3",
+      "DisplayName": "PhotoStock",
+      "ColorIndex": 11
+    },
+    "c635634c-8ab1-460e-871b-4bf8bb325487": {
+      "ProjectGuid": "c635634c-8ab1-460e-871b-4bf8bb325487",
+      "DisplayName": "Shared",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 13
+}
