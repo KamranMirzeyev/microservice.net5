@@ -34,7 +34,6 @@
       "ASP.NET-Web/1.0.0": {
         "dependencies": {
           "FluentValidation.AspNetCore": "10.3.4",
-          "IdentityModel": "5.2.0",
           "IdentityModel.AspNetCore": "4.0.0",
           "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.14.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",

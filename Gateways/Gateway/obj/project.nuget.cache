@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4WslBki5x1ysWxQbHUZmgyyh697Qxqm8o54crJ424nrslI5sBG/rDNWkJn406AutxLbuiDsa7C+HtdNoJG6IOA==",
+  "dgSpecHash": "6u1QA8cp6rLJiVTZ4XS9hijvVKy4IMmHGmn8iruoHNquZDH56HaVnnxts2hW5QSeKK1mBMCnCKuP6LzM90NtWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Gateways\\Gateway\\Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GT\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\GT\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.12\\microsoft.aspnetcore.authentication.jwtbearer.5.0.12.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
     "C:\\Users\\GT\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\5.0.0\\microsoft.aspnetcore.middlewareanalysis.5.0.0.nupkg.sha512",

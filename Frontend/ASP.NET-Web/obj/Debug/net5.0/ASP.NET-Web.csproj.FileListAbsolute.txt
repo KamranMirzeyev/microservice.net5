@@ -132,3 +132,6 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\AS
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\Courses\Update.cshtml.g.cs
+C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Frontend\ASP.NET-Web\obj\Debug\net5.0\Razor\Views\Home\Detail.cshtml.g.cs
