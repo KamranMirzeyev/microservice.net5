@@ -70,7 +70,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "93efadff-8774-4e46-91b6-71f7e1f10baa": {
+      "ProjectGuid": "93efadff-8774-4e46-91b6-71f7e1f10baa",
+      "DisplayName": "Discount",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }

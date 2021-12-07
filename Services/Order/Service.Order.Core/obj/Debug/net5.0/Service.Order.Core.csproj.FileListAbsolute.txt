@@ -9,3 +9,4 @@ C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Or
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Order\Service.Order.Core\obj\Debug\net5.0\Service.Order.Core.dll
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Order\Service.Order.Core\obj\Debug\net5.0\ref\Service.Order.Core.dll
 C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Order\Service.Order.Core\obj\Debug\net5.0\Service.Order.Core.pdb
+C:\Users\GT\Desktop\My Projects\microservice .net5\microservice.net5\Services\Order\Service.Order.Core\obj\Debug\net5.0\Service.Order.Core.csproj.AssemblyReference.cache

@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Shared.Messages
 {
-    internal class CreateOrderMessageCommand
+    public class CreateOrderMessageCommand
     {
         public CreateOrderMessageCommand()
         {

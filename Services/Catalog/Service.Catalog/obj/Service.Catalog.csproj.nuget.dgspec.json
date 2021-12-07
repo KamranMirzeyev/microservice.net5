@@ -52,9 +52,17 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.4, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[3.1.21, )"
             },
             "MongoDB.Driver": {
               "target": "Package",
