@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\ASP.NET-Web.csproj",
+  "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Services\\Order\\Service.Order.API\\Service.Order.API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,78 +15616,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "ASP.NET_Web",
-  "Documents": [
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\User\\Index.cshtml",
-      "TargetPath": "Views\\User\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Home\\Detail.cshtml",
-      "TargetPath": "Views\\Home\\Detail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Auth\\SignIn.cshtml",
-      "TargetPath": "Views\\Auth\\SignIn.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Courses\\Create.cshtml",
-      "TargetPath": "Views\\Courses\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Courses\\Update.cshtml",
-      "TargetPath": "Views\\Courses\\Update.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Courses\\Index.cshtml",
-      "TargetPath": "Views\\Courses\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Basket\\Index.cshtml",
-      "TargetPath": "Views\\Basket\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\GT\\Desktop\\My Projects\\microservice .net5\\microservice.net5\\Frontend\\ASP.NET-Web\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    }
-  ],
+  "RootNamespace": "Service.Order.API",
+  "Documents": [],
   "SerializationFormat": "0.2"
 }

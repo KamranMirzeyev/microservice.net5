@@ -57,7 +57,7 @@ namespace IndentityServer
                     if (!userManager.Users.Any())
                     {
                         userManager.CreateAsync(new ApplicationUser
-                            { UserName = "Kamran", Email = "test@test.az", City = "Baku"}, "Kamran12*").Wait();
+                            { UserName = "Kamran", Email = "test@test.az", City = "Baku"}, "Password12*").Wait();
 
                     }
                 }

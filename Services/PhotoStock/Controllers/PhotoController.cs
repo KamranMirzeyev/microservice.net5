@@ -13,6 +13,7 @@ namespace PhotoStock.Controllers
     [ApiController]
     public class PhotoController : CustomControllerBase
     {
+        [HttpPost]
         public async Task<IActionResult> PhotoSave(IFormFile file, CancellationToken cancellationToken)
         {
             if (file!=null && file.Length>0)
@@ -32,6 +33,7 @@ namespace PhotoStock.Controllers
             return CreateActionResultInttance(Responce<PhotoDto>.Fail("empty", 400));
         }
 
+        [HttpDelete]
         public IActionResult DeletePhoto(string phoyoUrl)
         {
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/", phoyoUrl);
